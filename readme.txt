@@ -6,7 +6,7 @@ In this git repository, I try to add my understanding contents about DX12. And a
 
 Here are my aims:
 
-1. As the basic aim: usefully know the DX12 frame.
+1. As the basic aim: know the DX12 frame solidly.
 
 2. Project aims: Reflection, translucency, texture map, bump map, environment map, shadow, ambient occlusion in high quality.
 
